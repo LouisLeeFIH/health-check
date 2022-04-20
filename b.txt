@@ -1,1 +1,2 @@
 adding line in b.txt
+adding line 2 in b.txt
