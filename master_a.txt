@@ -1,2 +1,4 @@
 
 add one line from remote
+in local, append one line
+
